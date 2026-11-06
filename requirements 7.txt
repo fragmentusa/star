@@ -1,0 +1,4 @@
+aiogram>=3.13,<4.0
+python-dotenv>=1.0
+psycopg[binary]>=3.2.10
+pyfragment>=2026.5.0
